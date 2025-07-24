@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Anshita 👋</h1>
 
-<!--
-**anshita2/anshita2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  B.Tech CSE | Full Stack Developer | Open to Opportunities
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Final year Computer Science student (B.Tech)
+- 👩‍💻 Skilled in building responsive, full-stack web applications
+- 🔗 Working with real-time systems, APIs, and modern UI frameworks
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anshita09/) or [Email](mailto:anshita316@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++, JavaScript, Python, SQL  
+- **Frontend:** HTML, CSS, Tailwind CSS, React  
+- **Backend:** Node.js, Express.js, Django  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshita2&show_icons=true&theme=radical" alt="Anshita's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshita2&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- Open Source Contributions  
+- Scalable full-stack architectures  
+- AI integration with web apps
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anshita09/)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:anshita316@gmail.com)
+
