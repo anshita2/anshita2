@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final year Computer Science student (B.Tech)
+- 🎓 Computer Science undergraduate (B.Tech)
 - 👩‍💻 Skilled in building responsive, full-stack web applications
 - 🔗 Working with real-time systems, APIs, and modern UI frameworks
 
@@ -19,7 +19,7 @@
 - **Languages:** C++, JavaScript, Python, SQL  
 - **Frontend:** HTML, CSS, Tailwind CSS, React  
 - **Backend:** Node.js, Express.js, Django  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, PostgreSQL 
 - **Tools:** Git, GitHub, Postman, VS Code  
 
 ---
